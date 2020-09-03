@@ -33,6 +33,7 @@
     "@react-native-community/eslint-config": "^1.0.0",
     "@testing-library/jest-native": "^3.1.0",
     "@testing-library/react-native": "^5.0.3",
+    "@types/": "react-navigation/native",
     "@types/jest": "^24.0.24",
     "@types/react-native": "^0.62.0",
     "@types/react-native-vector-icons": "^6.4.5",
