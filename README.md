@@ -6,7 +6,7 @@
 </h3>
 </div>
    
-<p align="center"> 🚀 Github Explorer: Application to search Github repositories from the public Github API, listing their issues and showing the number of stars and forks.
+<p align="center"> 🚀 GoMarketplace: Application to search test React's context API within a shop cart context.
  </p>
  
 # :pushpin: Table of Contents
